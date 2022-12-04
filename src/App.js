@@ -48,9 +48,9 @@ const App = () => {
     <div className="app">    
      <Routes>
      {isLoggedIn ? (
-      <Route path="/" element={<Layout userObj={userObj}/>}>
-      <Route index element={<MainPage  userObj={userObj} />} />
-      <Route path=":movieId" element={<DetailPage userObj={userObj} />}/>
+      <Route path="/" element={<Layout/>}>
+      <Route index element={<MainPage/>} />
+      <Route path=":movieId" element={<DetailPage />}/>
       <Route path="search" element={<SearchPage userObj={userObj} />} />
       </Route>
         ) : (
