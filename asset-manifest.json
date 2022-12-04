@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/EUN-HA-CHOI/React_Netflix_App/static/css/main.a7ec9497.css",
-    "main.js": "/EUN-HA-CHOI/React_Netflix_App/static/js/main.3a0b3aa2.js",
+    "main.js": "/EUN-HA-CHOI/React_Netflix_App/static/js/main.f0468422.js",
     "index.html": "/EUN-HA-CHOI/React_Netflix_App/index.html",
     "main.a7ec9497.css.map": "/EUN-HA-CHOI/React_Netflix_App/static/css/main.a7ec9497.css.map",
-    "main.3a0b3aa2.js.map": "/EUN-HA-CHOI/React_Netflix_App/static/js/main.3a0b3aa2.js.map"
+    "main.f0468422.js.map": "/EUN-HA-CHOI/React_Netflix_App/static/js/main.f0468422.js.map"
   },
   "entrypoints": [
     "static/css/main.a7ec9497.css",
-    "static/js/main.3a0b3aa2.js"
+    "static/js/main.f0468422.js"
   ]
 }
