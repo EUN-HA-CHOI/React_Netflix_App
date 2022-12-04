@@ -171,6 +171,7 @@ const Button = styled.button`
 
 const Span = styled.span`
   color: lightgray;
+  cursor: pointer;
   a {
     color: white;
     text-decoration: none;

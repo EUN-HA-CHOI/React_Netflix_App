@@ -44,9 +44,9 @@ function Nav() {
        className='nav__logo'
        onClick={() => (window.location.href = "/React_Netflix_App/")}/> 
       <ul className='nav_bar'>
-        <li>시리즈</li>
-        <li>영화</li>
-        <li>NEW! 요즘 대세 콘텐츠</li>
+        <li></li>
+        <li></li>
+        <li></li>
       
       </ul>
         <input
